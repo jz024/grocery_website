@@ -7,6 +7,3 @@ navigation_pages:
     url: "/methods/"
   - title: "Discussions"
     url: "/discussions/"
-
-intro:
-  height: "300px" 

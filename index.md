@@ -18,6 +18,7 @@ This is the homepage.
 
 ## 👥 Meet Our Team
 
+
 | Name                  | Email                     |
 |-----------------------|--------------------------|
 | Luke Link            | [lul018@ucsd.edu](mailto:lul018@ucsd.edu) |
