@@ -16,13 +16,15 @@ This is the homepage.
 
 ---
 
-## 👥 **Meet Our Team**
+## 👥 Meet Our Team
 
-| Name | Email |
-|------|-------|
-| Luke Link | [lul018@ucsd.edu](mailto:lul018@ucsd.edu) |
-| Matteo Perona | [mperona@ucsd.edu](mailto:mperona@ucsd.edu) |
-| Yi Zhang | [yiz142@ucsd.edu](mailto:yiz142@ucsd.edu) |
-| Liuyao Zhang | [liz035@ucsd.edu](mailto:liz035@ucsd.edu) |
-| Jingbo Shang (mentor) | [jshang@ucsd.edu](mailto:jshang@ucsd.edu) |
+| Name                  | Email                     |
+|-----------------------|--------------------------|
+| Luke Link            | [lul018@ucsd.edu](mailto:lul018@ucsd.edu) |
+| Matteo Perona        | [mperona@ucsd.edu](mailto:mperona@ucsd.edu) |
+| Yi Zhang            | [yiz142@ucsd.edu](mailto:yiz142@ucsd.edu) |
+| Liuyao Zhang        | [liz035@ucsd.edu](mailto:liz035@ucsd.edu) |
+| Jingbo Shang (Mentor) | [jshang@ucsd.edu](mailto:jshang@ucsd.edu) |
+
+
 ---
