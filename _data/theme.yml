@@ -1,13 +1,5 @@
 navigation_pages:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Methods"
-    url: "/methods/"
-  - title: "Discussions"
-    url: "/discussions/"
-
-intro:
-  overlay: false 
-  height: "400px"
+  - index.md
+  - about.md
+  - methods.md
+  - discussions.md
