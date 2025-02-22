@@ -1,0 +1,11 @@
+navigation_pages:
+  - title: "Home"
+    url: "/"
+  - title: "Our Team"
+    url: "/team/"
+  - title: "About"
+    url: "/about/"
+  - title: "Methods"
+    url: "/methods/"
+  - title: "Discussions"
+    url: "/discussions/"

@@ -1,5 +1,17 @@
 ---
 layout: home
-title: "Welcome to My Website"
+title: "SmartCart"
+sub_title: "sub title"
+image: "/assets/homepage.jpg"
 ---
-This is the homepage of my site.
+This is the homepage.
+
+
+
+## View Our Work
+
+[📄 Read Our Report](){: .btn .btn-primary}
+
+[📌 View Our Poster](){: .btn .btn-secondary}
+
+---
