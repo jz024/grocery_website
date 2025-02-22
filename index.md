@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "SmartCart"
 sub_title: "sub title"
 image: "/assets/homepage.jpg"
 ---
