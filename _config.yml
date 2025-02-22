@@ -12,5 +12,3 @@ header_pages:
   - about.md
   - methods.md
   - discussions.md
-
-custom_css: "assets/custom.css"
