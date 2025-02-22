@@ -14,7 +14,11 @@ This is the homepage.
 
 [📌 View Our Poster](){: .btn .btn-secondary}
 
+<br>
+
 ---
+
+<br>
 
 ## 👥 Meet Our Team
 

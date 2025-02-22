@@ -7,3 +7,7 @@ navigation_pages:
     url: "/methods/"
   - title: "Discussions"
     url: "/discussions/"
+
+intro:
+  overlay: false 
+  height: "400px"
