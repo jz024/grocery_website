@@ -1,6 +1,10 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 title: "SmartCart"
 url: "https://jz024.github.io/grocery_website/"

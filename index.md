@@ -1,11 +1,21 @@
 ---
 layout: home
-sub_title: "sub title"
+sub_title: "AI-Powered Meal Planning & Grocery Shopping Assistant"
 image: "/assets/homepage.jpg"
 ---
-This is the homepage.
 
+## Project Overview
 
+SmartCart is an innovative AI-powered meal planning assistant that revolutionizes how busy home cooks approach their kitchen adventures. Using advanced language models, our system streamlines the entire process from meal selection to grocery shopping.
+
+Our specialized LLM agent helps you:
+- Plan meals based on your preferences, culture, and dietary needs
+- Generate detailed shopping lists
+- Find suitable recipes with step-by-step instructions
+- Locate the best grocery stores in your area based on price and availability
+- Provide alternative shopping locations when needed
+
+The result? A comprehensive, time-saving solution that takes the stress out of meal planning and grocery shopping.
 
 ## View Our Work
 
@@ -21,7 +31,6 @@ This is the homepage.
 
 ## 👥 Meet Our Team
 
-
 | Name                  | Email                     |
 |-----------------------|--------------------------|
 | Luke Lin            | [lul018@ucsd.edu](mailto:lul018@ucsd.edu) |
@@ -29,6 +38,5 @@ This is the homepage.
 | Yi Zhang            | [yiz142@ucsd.edu](mailto:yiz142@ucsd.edu) |
 | Liuyao Zhang        | [liz035@ucsd.edu](mailto:liz035@ucsd.edu) |
 | Jingbo Shang (Mentor) | [jshang@ucsd.edu](mailto:jshang@ucsd.edu) |
-
 
 ---
