@@ -4,6 +4,13 @@ sub_title: "AI-Powered Meal Planning & Grocery Shopping Assistant"
 image: "/assets/homepage.jpg"
 ---
 
+# SmartCart: AI-Powered Meal Planning & Grocery Shopping Assistant
+
+## 🌐 Navigation  
+[Home](/) | [About](/about/) | [Discussions](/discussions/) | [Methods](/methods/)  
+
+---
+
 ## Project Overview
 
 SmartCart is an innovative AI-powered meal planning assistant that revolutionizes how busy home cooks approach their kitchen adventures. Using advanced language models, our system streamlines the entire process from meal selection to grocery shopping.
