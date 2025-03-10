@@ -26,6 +26,7 @@ The result? A comprehensive, time-saving solution that takes the stress out of m
 
 [📌 View Our Poster](/assets/SmartCart.pdf){: .btn .btn-secondary target="_blank"}
 
+To find out more details, please click the button in the top right corner of this page.
 <br>
 
 ---
