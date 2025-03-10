@@ -4,12 +4,6 @@ sub_title: "AI-Powered Meal Planning & Grocery Shopping Assistant"
 image: "/assets/homepage.jpg"
 ---
 
-<!-- # SmartCart: AI-Powered Meal Planning & Grocery Shopping Assistant
-
-## 🌐 Navigation  
-[Home](/) | [About](/about/) | [Discussions](/discussions/) | [Methods](/methods/)  
-
---- -->
 
 ## Project Overview
 
