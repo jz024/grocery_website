@@ -1,6 +1,6 @@
 ---
 layout: home
-# sub_title: "AI-Powered Meal Planning & Grocery Shopping Assistant"
+sub_title: "AI-Powered Meal Planning & Grocery Shopping Assistant"
 image: "/assets/homepage.jpg"
 ---
 

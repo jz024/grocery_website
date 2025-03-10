@@ -14,7 +14,9 @@ Traditional meal planning often involves flipping through cookbooks, browsing so
 
 SmartCart eliminates these inefficiencies by integrating **advanced AI technology** with **real-time grocery store data**, giving users a **smarter, faster, and more personalized** way to plan their meals.
 
+
 ---
+
 
 ## What SmartCart Offers  
 ✅ **Personalized Meal Planning** – Get meal recommendations tailored to your preferences, dietary needs, and culture.  
