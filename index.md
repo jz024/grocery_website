@@ -4,12 +4,12 @@ layout: home
 image: "/assets/homepage.jpg"
 ---
 
-# SmartCart: AI-Powered Meal Planning & Grocery Shopping Assistant
+<!-- # SmartCart: AI-Powered Meal Planning & Grocery Shopping Assistant
 
 ## 🌐 Navigation  
 [Home](/) | [About](/about/) | [Discussions](/discussions/) | [Methods](/methods/)  
 
----
+--- -->
 
 ## Project Overview
 
@@ -23,6 +23,8 @@ Our specialized LLM agent helps you:
 - Provide alternative shopping locations when needed
 
 The result? A comprehensive, time-saving solution that takes the stress out of meal planning and grocery shopping.
+
+---
 
 ## View Our Work
 
