@@ -22,7 +22,7 @@ The result? A comprehensive, time-saving solution that takes the stress out of m
 
 ## View Our Work
 
-[📄 Read Our Report](){: .btn .btn-primary}
+[📄 Read Our Report](/assets/DSC_Capstone.pdf){: .btn .btn-secondary target="_blank"}
 
 [📌 View Our Poster](/assets/SmartCart.pdf){: .btn .btn-secondary target="_blank"}
 

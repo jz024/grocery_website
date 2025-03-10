@@ -5,27 +5,20 @@ permalink: /conclusion/
 ---
 
 ## Results
-
-The evaluation of our meal-planning assistant, based on user feedback from the SmartCart
-survey, highlights its effectiveness in simplifying meal selection and enhancing the grocery
-shopping experience. A majority of users (82%) found that the system made meal plan-
-ning easier, with many appreciating the structured approach to generating personalized
-meal recommendations. However, some users noted that certain meal suggestions did not
-fully align with their preferences or contained hard-to-find ingredients. In terms of grocery
-shopping efficiency, 75% of users reported a positive impact, particularly due to the auto-
-matically generated shopping lists and store recommendations. Nonetheless, some users
-encountered occasional mismatches between the recommended stores and actual product
-availability due to a lack of real-time inventory tracking. Route optimization was also well-
-received, with 79% of users finding it helpful for planning their shopping trips, though those
-in rural areas reported difficulties due to limited grocery store data. Personalization was a
-strong aspect of the system, as 88% of users found the meal recommendations relevant to
-their tastes, and 90% confirmed that their dietary restrictions were accurately considered.
-However, some users expressed a desire for more transparency in how recommendations
-were generated, along with additional flexibility in ingredient substitutions. These findings
-suggest that while the assistant effectively streamlines meal planning and grocery shopping
-for most users, improvements in real-time pricing and inventory tracking, expanded gro-
-cery store coverage, and enhanced customization options could further optimize the user
-experience.
+We evaluated SmartCart on 3 objectives by surveying our users on each one’s performance.
+1. Simplify Meal Planning: Did SmartCart make planning meals easier?
+2. Enhance Grocery Shopping: Did SmartCart enhance or expidite your grocery shop-
+ping experience?
+3. Optimize Routes: Did SmartCart make it easier to plan and execute your shopping
+trips?
+Refer to figure 3 to see our current results. Figure 3 presents the average survey responses
+evaluating SmartCart on three key objectives: simplifying meal planning, enhancing gro-
+cery shopping, and optimizing routes. The survey collected numerical ratings from users
+on a 1 to 5 scale, with higher scores indicating better performance. The average response
+shows roughtly 4.5 in meal planning, 4.5 in enhanced grocery shopping, and 3.0 in route
+optimization.
+We ran one extra survey to make sure that dietary restrictions were considered accurately
+in model outputs. Of the responses we received 100% reported success.
 
 
 ## Conclusion
