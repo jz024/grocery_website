@@ -3,6 +3,15 @@ title: Methods
 layout: page
 ---
 
+<div style="text-align: center;">
+    <img src="assets/useflow.png" alt="Use flow of SmartCart" style="width:100%;">
+    <p><strong>Use flow of SmartCart</strong><br>
+    (1) We collect user data including dietary restrictions, culinary preferences, and location;<br>
+    (2) User chats with our agent to determine what dish they want to cook;<br>
+    (3) Agent generates a shopping list and (4) store recommendations;<br>
+    finally, (5) the user either navigates to the stores or uses our tailored checkout experience.</p>
+</div>
+
 ## Introduction
 
 The process of meal planning, which involves selecting recipes, preparing shopping lists, and sourcing ingredients, can be time-consuming and inefficient for busy home cooks. As modern lifestyles become more fast-paced, individuals increasingly seek solutions that reduce the effort and complexity of daily meal preparation.
