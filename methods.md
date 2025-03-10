@@ -99,7 +99,7 @@ sent back to the frontend, providing the user with an optimized shopping plan, g
 store recommendations, and step-by-step cooking instructions.
 
 <div style="text-align: center;">
-    <img src="figure/architecture.png" alt="SmartCart architecture" style="width:50%;">
+    <img src="assets/architecture.png" alt="SmartCart architecture" style="width:50%;">
     <p><strong>SmartCart architecture</strong><br>
     API calls from user actions are shown on the left while the backend infrastructure they interact with are on the right. 
     Arrows show how data is passed between different parts of the system.</p>
