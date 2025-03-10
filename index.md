@@ -26,7 +26,10 @@ The result? A comprehensive, time-saving solution that takes the stress out of m
 
 [📌 View Our Poster](/assets/SmartCart.pdf){: .btn .btn-secondary target="_blank"}
 
+<span style="background-color: yellow; padding: 3px; border-radius: 3px;">
 To find out more details, please click the button in the top right corner of this page.
+</span>
+
 <br>
 
 ---
