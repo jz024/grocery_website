@@ -3,17 +3,6 @@ title: Methods
 layout: page
 ---
 
-<div style="text-align: center;">
-    <img src="assets/useflow.png" alt="Use flow of SmartCart" style="width:100%;">
-    <p><strong>Use flow of SmartCart</strong><br>
-    (1) We collect user data including dietary restrictions, culinary preferences, and location;<br>
-    (2) User chats with our agent to determine what dish they want to cook;<br>
-    (3) Agent generates a shopping list and (4) store recommendations;<br>
-    finally, (5) the user either navigates to the stores or uses our tailored checkout experience.</p>
-</div>
-
-
-
 ## Introduction
 
 The process of meal planning, which involves selecting recipes, preparing shopping lists, and sourcing ingredients, can be time-consuming and inefficient for busy home cooks. As modern lifestyles become more fast-paced, individuals increasingly seek solutions that reduce the effort and complexity of daily meal preparation.
@@ -62,6 +51,13 @@ The workflow integrates these components to provide:
 - Personalized meal recommendations
 - Comprehensive shopping guidance
 
+<div style="text-align: center;">
+    <img src="assets/architecture.png" alt="SmartCart architecture" style="width:50%;">
+    <p><strong>SmartCart architecture</strong><br>
+    API calls from user actions are shown on the left while the backend infrastructure they interact with are on the right. 
+    Arrows show how data is passed between different parts of the system.</p>
+</div>
+
 The proposed system integrates a React Native mobile application as the frontend, Google
 APIs as the middle layer, and a backend consisting of Firebase Firestore and MongoDB to
 create a streamlined meal-planning experience. The architecture ensures seamless interac-
@@ -98,9 +94,4 @@ ingredients can be sourced. The backend then compiles a structured response, whi
 sent back to the frontend, providing the user with an optimized shopping plan, grocery
 store recommendations, and step-by-step cooking instructions.
 
-<div style="text-align: center;">
-    <img src="assets/architecture.png" alt="SmartCart architecture" style="width:50%;">
-    <p><strong>SmartCart architecture</strong><br>
-    API calls from user actions are shown on the left while the backend infrastructure they interact with are on the right. 
-    Arrows show how data is passed between different parts of the system.</p>
-</div>
+

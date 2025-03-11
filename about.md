@@ -38,3 +38,12 @@ SmartCart eliminates these inefficiencies by integrating **advanced AI technolog
 ## A Smarter Way to Cook  
 SmartCart is more than just a meal planner—it's your **AI-powered kitchen companion**. By combining recipe discovery, grocery shopping assistance, and meal preparation in one app, SmartCart helps busy individuals **save time, reduce stress, and cook at home with ease**.
 
+<div style="text-align: center;">
+    <img src="assets/useflow.png" alt="Use flow of SmartCart" style="width:100%;">
+    <p><strong>Use flow of SmartCart</strong><br>
+    (1) We collect user data including dietary restrictions, culinary preferences, and location;<br>
+    (2) User chats with our agent to determine what dish they want to cook;<br>
+    (3) Agent generates a shopping list and (4) store recommendations;<br>
+    finally, (5) the user either navigates to the stores or uses our tailored checkout experience.</p>
+</div>
+
