@@ -31,24 +31,16 @@ services, Firebase Firestore, and Google Maps API, the system provides a seamles
 and personalized meal-planning assistant for busy home cooks.
 The evaluation results demonstrate that the system successfully simplifies meal planning
 and grocery shopping, with a majority of users reporting improved efficiency in selecting
-meals, generating shopping lists, and planning store visits. The ability to provide person-
-alized meal recommendations and optimize grocery store selection was particularly well-
-received. However, some limitations were identified, including occasional mismatches in
-product availability, challenges in rural areas due to limited store data, and a lack of real-
-time pricing information. Additionally, while the majority of users found meal suggestions
-relevant, some desired greater flexibility in ingredient substitutions and increased trans-
-parency in recommendation logic.
+meals, generating shopping lists, and planning store visits. The ability to provide personalized meal recommendations and optimize grocery store selection was particularly wellreceived. However, some limitations were identified, including occasional mismatches in
+product availability, challenges in rural areas due to limited store data, and a lack of real-time pricing information. Additionally, while the majority of users found meal suggestions
+relevant, some desired greater flexibility in ingredient substitutions and increased transparency in recommendation logic.
 To further enhance the system, future work should focus on integrating real-time pricing
 APIs from grocery retailers to provide more accurate cost estimates and product availability
 updates. Expanding the ingredient substitution feature would allow users to customize their
-shopping lists more effectively based on personal preferences or dietary restrictions. Fur-
-thermore, improving store data coverage, particularly in rural and less densely populated
-areas, would ensure that users across different regions receive high-quality recommenda-
-tions. Additional refinements, such as the ability to prioritize organic or locally sourced in-
-gredients and incorporating real-time stock tracking, could further improve the assistant’s
+shopping lists more effectively based on personal preferences or dietary restrictions. Furthermore, improving store data coverage, particularly in rural and less densely populated
+areas, would ensure that users across different regions receive high-quality recommendations. Additional refinements, such as the ability to prioritize organic or locally sourced ingredients and incorporating real-time stock tracking, could further improve the assistant’s
 functionality and user satisfaction.
 Overall, the results validate the system’s potential as a practical and intelligent solution for
-meal planning and grocery shopping. By addressing the identified limitations and incorpo-
-rating user-driven improvements, future iterations of the assistant could provide an even
+meal planning and grocery shopping. By addressing the identified limitations and incorporating user-driven improvements, future iterations of the assistant could provide an even
 more seamless and adaptable experience, catering to a broader range of users and shopping
 needs.
